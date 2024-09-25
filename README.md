@@ -52,7 +52,7 @@ This script is designed to scrape presentations from Adobe Indesign embedded in 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/presentation-scraper.git
+   git clone https://github.com/guloff/indd.git
    ```
 
 2. Install the required dependencies:
